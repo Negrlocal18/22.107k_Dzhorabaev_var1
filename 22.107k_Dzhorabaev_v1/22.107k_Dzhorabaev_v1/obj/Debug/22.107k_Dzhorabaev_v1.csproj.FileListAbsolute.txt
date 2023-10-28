@@ -1,0 +1,16 @@
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\bin\Debug\22.107k_Dzhorabaev_v1.exe.config
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\bin\Debug\22.107k_Dzhorabaev_v1.exe
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\bin\Debug\22.107k_Dzhorabaev_v1.pdb
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.csproj.AssemblyReference.cache
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\MainWindow.g.cs
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\App.g.cs
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1_MarkupCompile.cache
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1_MarkupCompile.lref
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\MainWindow.baml
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.g.resources
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\_22._107k_Dzhorabaev_v1.Properties.Resources.resources
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.csproj.GenerateResource.cache
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.csproj.CoreCompileInputs.cache
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.exe
+C:\Users\pr-22.107k-dsh\Source\Repos\22.107k_Dzhorabaev_v1\22.107k_Dzhorabaev_v1\obj\Debug\22.107k_Dzhorabaev_v1.pdb
